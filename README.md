@@ -1,3 +1,30 @@
+## scitos_apps (indigo) - 0.0.5-0
+
+The packages in the `scitos_apps` repository were released into the `indigo` distro by running `/usr/local/bin/bloom-release -n -t indigo -r indigo scitos_apps` on `Thu, 23 Oct 2014 14:41:59 -0000`
+
+These packages were released:
+- `scitos_cmd_vel_mux`
+- `scitos_dashboard`
+- `scitos_docking`
+- `scitos_ptu`
+- `scitos_teleop`
+- `scitos_touch`
+
+Version of package(s) in repository `scitos_apps`:
+- upstream repository: https://github.com/strands-project/scitos_apps.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `0.0.5-0`
+
+Versions of tools used:
+- bloom version: `0.5.12`
+- catkin_pkg version: `0.2.4`
+- rosdep version: `0.10.30`
+- rosdistro version: `0.3.5`
+- vcstools version: `0.1.35`
+
+
 ## scitos_apps (hydro) - 0.0.5-0
 
 The packages in the `scitos_apps` repository were released into the `hydro` distro by running `/usr/bin/bloom-release scitos_apps --track hydro --rosdistro hydro` on `Thu, 23 Oct 2014 13:22:43 -0000`
