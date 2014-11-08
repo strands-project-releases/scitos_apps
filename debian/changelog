@@ -1,0 +1,48 @@
+ros-hydro-scitos-apps (0.0.7-0precise) precise; urgency=high
+
+
+
+ -- Christian Dondrup <cdondrup@lincoln.ac.uk>  Sat, 08 Nov 2014 00:00:00 -0000
+
+ros-hydro-scitos-apps (0.0.6-0precise) precise; urgency=high
+
+  * Added license
+  * Created metapackage for easier install
+  * Contributors: Christian Dondrup
+  * Added license
+  * Created metapackage for easier install
+  * Contributors: Christian Dondrup
+
+ -- Christian Dondrup <cdondrup@lincoln.ac.uk>  Thu, 06 Nov 2014 00:00:00 -0000
+
+ros-hydro-scitos-apps (0.0.5-0precise) precise; urgency=high
+
+
+
+ -- Christian Dondrup <cdondrup@lincoln.ac.uk>  Wed, 22 Oct 2014 23:00:00 -0000
+
+ros-hydro-scitos-apps (0.0.4-0precise) precise; urgency=high
+
+
+
+ -- Christian Dondrup <cdondrup@lincoln.ac.uk>  Sun, 12 Oct 2014 23:00:00 -0000
+
+ros-hydro-scitos-apps (0.0.3-0precise) precise; urgency=high
+
+
+
+ -- Christian Dondrup <cdondrup@lincoln.ac.uk>  Mon, 22 Sep 2014 19:09:00 -0000
+
+ros-hydro-scitos-apps (0.0.2-0precise) precise; urgency=high
+
+
+
+ -- Christian Dondrup <cdondrup@lincoln.ac.uk>  Mon, 22 Sep 2014 17:41:00 -0000
+
+ros-hydro-scitos-apps (0.0.1-0precise) precise; urgency=high
+
+
+
+ -- Christian Dondrup <cdondrup@lincoln.ac.uk>  Mon, 22 Sep 2014 15:19:00 -0000
+
+
