@@ -1,0 +1,12 @@
+Source: ros-indigo-scitos-cmd-vel-mux
+Section: misc
+Priority: extra
+Maintainer: Christian Dondrup <cdondrup@lincoln.ac.uk>
+Build-Depends: debhelper (>= 9.0.0), ros-indigo-catkin
+Homepage: https://github.com/strands-project/scitos_apps
+Standards-Version: 3.9.2
+
+Package: ros-indigo-scitos-cmd-vel-mux
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-indigo-yocs-cmd-vel-mux
+Description: Launch and config files for the yocs_cmd_vel_mux tailored to the scitos A5 robot.
