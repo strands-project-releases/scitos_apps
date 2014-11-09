@@ -1,0 +1,12 @@
+Source: ros-hydro-scitos-dashboard
+Section: misc
+Priority: extra
+Maintainer: chris burbridge <cburbridge@gmail.com>
+Build-Depends: debhelper (>= 9.0.0), ros-hydro-catkin, ros-hydro-roslib, ros-hydro-rospy, ros-hydro-rqt-gui, ros-hydro-rqt-robot-dashboard, ros-hydro-scitos-msgs, ros-hydro-std-msgs
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-hydro-scitos-dashboard
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-hydro-roslib, ros-hydro-rospy, ros-hydro-rqt-gui, ros-hydro-rqt-robot-dashboard, ros-hydro-scitos-msgs, ros-hydro-std-msgs
+Description: The scitos_dashboard package providing and rqt interface for the scitos robot.
