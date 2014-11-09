@@ -2,6 +2,9 @@
 Changelog for package scitos_docking
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.0.8 (2014-11-09)
+------------------
+
 0.0.7 (2014-11-08)
 ------------------
 * final and tested version of loader
