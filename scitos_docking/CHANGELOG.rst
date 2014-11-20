@@ -2,6 +2,11 @@
 Changelog for package scitos_docking
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.0.11 (2014-11-20)
+-------------------
+* Revert "Improvements to charging"
+* Contributors: Marc Hanheide
+
 0.0.10 (2014-11-19)
 -------------------
 * Light behaviour improved, head restart optional.
