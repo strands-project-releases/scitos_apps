@@ -2,6 +2,9 @@
 Changelog for package scitos_docking
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.0.13 (2014-11-21)
+-------------------
+
 0.0.12 (2014-11-20)
 -------------------
 * change the status message for head on and head off
