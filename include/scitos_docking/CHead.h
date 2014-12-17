@@ -1,5 +1,5 @@
-#ifndef CLIGHTCLIENT_H
-#define CLIGHTCLIENT_H
+#ifndef CHEAD_H
+#define CHEAD_H
 
 /**
 @author Tom Krajnik
@@ -14,15 +14,14 @@
 
 #define TIMEOUT_INTERVAL 40000
 
-class CLightClient
+class CHead
 {
 	public:
-		CLightClient();
-		~CLightClient();
+		CHead();
+		~CHead();
 		bool get();
 		void set(bool stuff);
 
-		std::string ebcport; // Uglyness is fought back with uglyness!
 	private:
 		bool status;
 		bool known;
