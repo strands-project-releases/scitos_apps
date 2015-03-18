@@ -2,6 +2,11 @@
 Changelog for package scitos_teleop
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.0.15 (2015-03-18)
+-------------------
+* Added resetting the magnetic barrier motor stop to rumble_control
+* Contributors: Christian Dondrup
+
 0.0.14 (2014-12-17)
 -------------------
 
