@@ -1,3 +1,32 @@
+## scitos_apps (indigo) - 0.0.20-0
+
+The packages in the `scitos_apps` repository were released into the `indigo` distro by running `/usr/bin/bloom-release --non-interactive -t indigo -r indigo scitos_apps` on `Fri, 22 May 2015 14:12:43 -0000`
+
+These packages were released:
+- `ptu_follow_frame`
+- `scitos_apps`
+- `scitos_cmd_vel_mux`
+- `scitos_dashboard`
+- `scitos_docking`
+- `scitos_ptu`
+- `scitos_teleop`
+- `scitos_touch`
+
+Version of package(s) in repository `scitos_apps`:
+- upstream repository: https://github.com/strands-project/scitos_apps.git
+- release repository: https://github.com/strands-project-releases/scitos_apps.git
+- rosdistro version: `0.0.19-0`
+- old version: `0.0.19-0`
+- new version: `0.0.20-0`
+
+Versions of tools used:
+- bloom version: `0.5.12`
+- catkin_pkg version: `0.2.4`
+- rosdep version: `0.10.30`
+- rosdistro version: `0.3.5`
+- vcstools version: `0.1.35`
+
+
 ## scitos_apps (indigo) - 0.0.19-0
 
 The packages in the `scitos_apps` repository were released into the `indigo` distro by running `/usr/bin/bloom-release --non-interactive -t indigo -r indigo scitos_apps` on `Fri, 22 May 2015 13:03:07 -0000`
