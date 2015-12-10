@@ -2,6 +2,9 @@
 Changelog for package scitos_ptu
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.0.22 (2015-12-10)
+-------------------
+
 0.0.21 (2015-12-07)
 -------------------
 * Small addition to publish sweep paramaters
