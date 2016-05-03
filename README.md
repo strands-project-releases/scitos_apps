@@ -1,4 +1,3 @@
-scitos_apps
-===========
+## The Scitos touch package
 
-Applications that can be run on the robot hardware and in simulation.
+Containing nodes meant to be run on the touch screen of a Scitos A5 robot. Currently containing an rqt plugin `rqt_emergency_stop` to disable and reenable the motors of a Scitos robot. After installation it should be availbale in the rqt plugins menu.
