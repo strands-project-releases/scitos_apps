@@ -2,6 +2,11 @@
 Changelog for package scitos_docking
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.1.2 (2017-06-28)
+------------------
+* added missing opencv dependency
+* Contributors: Marc Hanheide
+
 0.1.1 (2016-11-03)
 ------------------
 * Merge pull request `#157 <https://github.com/strands-project/scitos_apps/issues/157>`_ from gestom/hydro-devel
