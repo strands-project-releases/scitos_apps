@@ -1,0 +1,12 @@
+Source: ros-kinetic-scitos-apps
+Section: misc
+Priority: extra
+Maintainer: Christian Dondrup <cdondrup@lincoln.ac.uk>
+Build-Depends: debhelper (>= 9.0.0), ros-kinetic-catkin
+Homepage: http://github.com/strands-project/scitos_apps
+Standards-Version: 3.9.2
+
+Package: ros-kinetic-scitos-apps
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-kinetic-scitos-cmd-vel-mux, ros-kinetic-scitos-dashboard, ros-kinetic-scitos-docking, ros-kinetic-scitos-ptu, ros-kinetic-scitos-teleop, ros-kinetic-scitos-touch
+Description: The scitos_apps metapackage
