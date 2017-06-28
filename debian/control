@@ -1,0 +1,12 @@
+Source: ros-kinetic-scitos-docking
+Section: misc
+Priority: extra
+Maintainer: gestom <tkrajnik@lincoln.ac.uk>
+Build-Depends: debhelper (>= 9.0.0), libblas-dev, libboost-all-dev, libgsl-dev, libncurses5-dev, ros-kinetic-actionlib, ros-kinetic-actionlib-msgs, ros-kinetic-catkin, ros-kinetic-cv-bridge, ros-kinetic-dynamic-reconfigure, ros-kinetic-geometry-msgs, ros-kinetic-image-transport, ros-kinetic-message-generation, ros-kinetic-mongodb-store, ros-kinetic-move-base-msgs, ros-kinetic-nav-msgs, ros-kinetic-roscpp, ros-kinetic-rospy, ros-kinetic-scitos-msgs, ros-kinetic-scitos-teleop, ros-kinetic-sensor-msgs, ros-kinetic-std-msgs, ros-kinetic-tf
+Homepage: https://github.com/strands-project/scitos_apps
+Standards-Version: 3.9.2
+
+Package: ros-kinetic-scitos-docking
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, libblas-dev, libboost-all-dev, libgsl-dev, libncurses5-dev, ros-kinetic-actionlib, ros-kinetic-actionlib-msgs, ros-kinetic-cv-bridge, ros-kinetic-dynamic-reconfigure, ros-kinetic-geometry-msgs, ros-kinetic-image-transport, ros-kinetic-message-runtime, ros-kinetic-mongodb-store, ros-kinetic-move-base-msgs, ros-kinetic-nav-msgs, ros-kinetic-roscpp, ros-kinetic-rospy, ros-kinetic-scitos-msgs, ros-kinetic-scitos-teleop, ros-kinetic-sensor-msgs, ros-kinetic-std-msgs, ros-kinetic-tf
+Description: The charging package providing a visual charging action service for the scitos robot.
