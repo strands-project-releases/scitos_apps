@@ -1,0 +1,196 @@
+ros-melodic-scitos-virtual-bumper (0.2.0-1bionic) bionic; urgency=high
+
+  * adjusted version
+  * Merge pull request #162 <https://github.com/strands-project/scitos_apps/issues/162> from strands-project/marc-hanheide-patch-1
+    added missing include_directories
+  * added missing include_directories
+    see https://answers.ros.org/question/237494/fatal-error-rosrosh-no-such-file-or-directory/?answer=263025#post-id-263025
+  * Merge pull request #161 <https://github.com/strands-project/scitos_apps/issues/161> from gestom/virtual_bumper
+    Virtual bumper
+  * Merge pull request #2 <https://github.com/strands-project/scitos_apps/issues/2> from Jailander/hydro-devel
+    Improving notification information
+  * Improving notification information
+  * Merge pull request #1 <https://github.com/strands-project/scitos_apps/issues/1> from Jailander/hydro-devel
+    Adding notifications to virtual bumper
+  * adding closest node to notification
+  * fixing typo
+  * Including Virtual Bumper notifications node
+  * Virtual bumper. When standing still, the robot automatically goes to free-run when pushed by a human. Free-run is turned off a few seconds after the robot is not moved anymore.
+  * Contributors: Jaime Pulido Fentanes, Marc Hanheide, Tom Krajnik
+  * adjusted version
+  * Merge pull request #162 <https://github.com/strands-project/scitos_apps/issues/162> from strands-project/marc-hanheide-patch-1
+    added missing include_directories
+  * added missing include_directories
+    see https://answers.ros.org/question/237494/fatal-error-rosrosh-no-such-file-or-directory/?answer=263025#post-id-263025
+  * Merge pull request #161 <https://github.com/strands-project/scitos_apps/issues/161> from gestom/virtual_bumper
+    Virtual bumper
+  * Merge pull request #2 <https://github.com/strands-project/scitos_apps/issues/2> from Jailander/hydro-devel
+    Improving notification information
+  * Improving notification information
+  * Merge pull request #1 <https://github.com/strands-project/scitos_apps/issues/1> from Jailander/hydro-devel
+    Adding notifications to virtual bumper
+  * adding closest node to notification
+  * fixing typo
+  * Including Virtual Bumper notifications node
+  * Virtual bumper. When standing still, the robot automatically goes to free-run when pushed by a human. Free-run is turned off a few seconds after the robot is not moved anymore.
+  * Contributors: Jaime Pulido Fentanes, Marc Hanheide, Tom Krajnik
+
+ -- gestom <tkrajnik@lincoln.ac.uk>  Thu, 01 Nov 2018 00:00:00 -0000
+
+ros-melodic-scitos-virtual-bumper (0.1.2-1bionic) bionic; urgency=high
+
+
+
+ -- gestom <tkrajnik@lincoln.ac.uk>  Tue, 27 Jun 2017 23:00:00 -0000
+
+ros-melodic-scitos-virtual-bumper (0.1.1-1bionic) bionic; urgency=high
+
+
+
+ -- gestom <tkrajnik@lincoln.ac.uk>  Thu, 03 Nov 2016 00:00:00 -0000
+
+ros-melodic-scitos-virtual-bumper (0.1.0-1bionic) bionic; urgency=high
+
+
+
+ -- gestom <tkrajnik@lincoln.ac.uk>  Mon, 23 May 2016 23:00:00 -0000
+
+ros-melodic-scitos-virtual-bumper (0.0.23-1bionic) bionic; urgency=high
+
+
+
+ -- gestom <tkrajnik@lincoln.ac.uk>  Mon, 02 May 2016 23:00:00 -0000
+
+ros-melodic-scitos-virtual-bumper (0.0.22-1bionic) bionic; urgency=high
+
+
+
+ -- gestom <tkrajnik@lincoln.ac.uk>  Thu, 10 Dec 2015 00:00:00 -0000
+
+ros-melodic-scitos-virtual-bumper (0.0.21-1bionic) bionic; urgency=high
+
+
+
+ -- gestom <tkrajnik@lincoln.ac.uk>  Mon, 07 Dec 2015 00:00:00 -0000
+
+ros-melodic-scitos-virtual-bumper (0.0.20-1bionic) bionic; urgency=high
+
+
+
+ -- gestom <tkrajnik@lincoln.ac.uk>  Fri, 22 May 2015 13:10:00 -0000
+
+ros-melodic-scitos-virtual-bumper (0.0.19-1bionic) bionic; urgency=high
+
+
+
+ -- gestom <tkrajnik@lincoln.ac.uk>  Fri, 22 May 2015 12:01:00 -0000
+
+ros-melodic-scitos-virtual-bumper (0.0.18-1bionic) bionic; urgency=high
+
+
+
+ -- gestom <tkrajnik@lincoln.ac.uk>  Sat, 16 May 2015 23:00:00 -0000
+
+ros-melodic-scitos-virtual-bumper (0.0.17-1bionic) bionic; urgency=high
+
+
+
+ -- gestom <tkrajnik@lincoln.ac.uk>  Tue, 31 Mar 2015 23:00:00 -0000
+
+ros-melodic-scitos-virtual-bumper (0.0.16-1bionic) bionic; urgency=high
+
+
+
+ -- gestom <tkrajnik@lincoln.ac.uk>  Thu, 19 Mar 2015 00:00:00 -0000
+
+ros-melodic-scitos-virtual-bumper (0.0.15-1bionic) bionic; urgency=high
+
+
+
+ -- gestom <tkrajnik@lincoln.ac.uk>  Wed, 18 Mar 2015 00:00:00 -0000
+
+ros-melodic-scitos-virtual-bumper (0.0.14-1bionic) bionic; urgency=high
+
+
+
+ -- gestom <tkrajnik@lincoln.ac.uk>  Wed, 17 Dec 2014 00:00:00 -0000
+
+ros-melodic-scitos-virtual-bumper (0.0.13-1bionic) bionic; urgency=high
+
+
+
+ -- gestom <tkrajnik@lincoln.ac.uk>  Fri, 21 Nov 2014 00:00:00 -0000
+
+ros-melodic-scitos-virtual-bumper (0.0.12-1bionic) bionic; urgency=high
+
+
+
+ -- gestom <tkrajnik@lincoln.ac.uk>  Thu, 20 Nov 2014 17:11:00 -0000
+
+ros-melodic-scitos-virtual-bumper (0.0.11-1bionic) bionic; urgency=high
+
+
+
+ -- gestom <tkrajnik@lincoln.ac.uk>  Thu, 20 Nov 2014 09:34:00 -0000
+
+ros-melodic-scitos-virtual-bumper (0.0.10-1bionic) bionic; urgency=high
+
+
+
+ -- gestom <tkrajnik@lincoln.ac.uk>  Wed, 19 Nov 2014 00:00:00 -0000
+
+ros-melodic-scitos-virtual-bumper (0.0.9-1bionic) bionic; urgency=high
+
+
+
+ -- gestom <tkrajnik@lincoln.ac.uk>  Tue, 11 Nov 2014 00:00:00 -0000
+
+ros-melodic-scitos-virtual-bumper (0.0.8-1bionic) bionic; urgency=high
+
+
+
+ -- gestom <tkrajnik@lincoln.ac.uk>  Sun, 09 Nov 2014 00:00:00 -0000
+
+ros-melodic-scitos-virtual-bumper (0.0.7-1bionic) bionic; urgency=high
+
+
+
+ -- gestom <tkrajnik@lincoln.ac.uk>  Sat, 08 Nov 2014 00:00:00 -0000
+
+ros-melodic-scitos-virtual-bumper (0.0.6-1bionic) bionic; urgency=high
+
+
+
+ -- gestom <tkrajnik@lincoln.ac.uk>  Thu, 06 Nov 2014 00:00:00 -0000
+
+ros-melodic-scitos-virtual-bumper (0.0.5-1bionic) bionic; urgency=high
+
+
+
+ -- gestom <tkrajnik@lincoln.ac.uk>  Wed, 22 Oct 2014 23:00:00 -0000
+
+ros-melodic-scitos-virtual-bumper (0.0.4-1bionic) bionic; urgency=high
+
+
+
+ -- gestom <tkrajnik@lincoln.ac.uk>  Sun, 12 Oct 2014 23:00:00 -0000
+
+ros-melodic-scitos-virtual-bumper (0.0.3-1bionic) bionic; urgency=high
+
+
+
+ -- gestom <tkrajnik@lincoln.ac.uk>  Mon, 22 Sep 2014 19:09:00 -0000
+
+ros-melodic-scitos-virtual-bumper (0.0.2-1bionic) bionic; urgency=high
+
+
+
+ -- gestom <tkrajnik@lincoln.ac.uk>  Mon, 22 Sep 2014 17:41:00 -0000
+
+ros-melodic-scitos-virtual-bumper (0.0.1-1bionic) bionic; urgency=high
+
+
+
+ -- gestom <tkrajnik@lincoln.ac.uk>  Mon, 22 Sep 2014 15:19:00 -0000
+
+
