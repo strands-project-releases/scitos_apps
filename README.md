@@ -1,3 +1,35 @@
+## scitos_apps (melodic) - 0.2.0-1
+
+The packages in the `scitos_apps` repository were released into the `melodic` distro by running `/usr/bin/bloom-release -n -t melodic -r melodic scitos_apps` on `Mon, 25 Nov 2019 16:01:21 -0000`
+
+These packages were released:
+- `ptu_follow_frame`
+- `scitos_apps`
+- `scitos_cmd_vel_mux`
+- `scitos_dashboard`
+- `scitos_docking`
+- `scitos_ptu`
+- `scitos_teleop`
+- `scitos_touch`
+- `scitos_virtual_bumper`
+
+Version of package(s) in repository `scitos_apps`:
+
+- upstream repository: https://github.com/strands-project/scitos_apps.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `0.2.0-1`
+
+Versions of tools used:
+
+- bloom version: `0.9.0`
+- catkin_pkg version: `0.4.14`
+- rosdep version: `0.17.1`
+- rosdistro version: `0.7.5`
+- vcstools version: `0.1.42`
+
+
 ## scitos_apps (kinetic) - 0.2.0-0
 
 The packages in the `scitos_apps` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release -y --no-web -t kinetic -r kinetic scitos_apps` on `Thu, 01 Nov 2018 11:53:15 -0000`
