@@ -1,0 +1,171 @@
+ros-melodic-scitos-cmd-vel-mux (0.2.0-1bionic) bionic; urgency=high
+
+
+
+ -- Christian Dondrup <cdondrup@lincoln.ac.uk>  Thu, 01 Nov 2018 00:00:00 -0000
+
+ros-melodic-scitos-cmd-vel-mux (0.1.2-1bionic) bionic; urgency=high
+
+
+
+ -- Christian Dondrup <cdondrup@lincoln.ac.uk>  Tue, 27 Jun 2017 23:00:00 -0000
+
+ros-melodic-scitos-cmd-vel-mux (0.1.1-1bionic) bionic; urgency=high
+
+
+
+ -- Christian Dondrup <cdondrup@lincoln.ac.uk>  Thu, 03 Nov 2016 00:00:00 -0000
+
+ros-melodic-scitos-cmd-vel-mux (0.1.0-1bionic) bionic; urgency=high
+
+
+
+ -- Christian Dondrup <cdondrup@lincoln.ac.uk>  Mon, 23 May 2016 23:00:00 -0000
+
+ros-melodic-scitos-cmd-vel-mux (0.0.23-1bionic) bionic; urgency=high
+
+
+
+ -- Christian Dondrup <cdondrup@lincoln.ac.uk>  Mon, 02 May 2016 23:00:00 -0000
+
+ros-melodic-scitos-cmd-vel-mux (0.0.22-1bionic) bionic; urgency=high
+
+
+
+ -- Christian Dondrup <cdondrup@lincoln.ac.uk>  Thu, 10 Dec 2015 00:00:00 -0000
+
+ros-melodic-scitos-cmd-vel-mux (0.0.21-1bionic) bionic; urgency=high
+
+
+
+ -- Christian Dondrup <cdondrup@lincoln.ac.uk>  Mon, 07 Dec 2015 00:00:00 -0000
+
+ros-melodic-scitos-cmd-vel-mux (0.0.20-1bionic) bionic; urgency=high
+
+
+
+ -- Christian Dondrup <cdondrup@lincoln.ac.uk>  Thu, 21 May 2015 23:00:00 -0000
+
+ros-melodic-scitos-cmd-vel-mux (0.0.19-1bionic) bionic; urgency=high
+
+
+
+ -- Christian Dondrup <cdondrup@lincoln.ac.uk>  Thu, 21 May 2015 23:00:00 -0000
+
+ros-melodic-scitos-cmd-vel-mux (0.0.18-1bionic) bionic; urgency=high
+
+
+
+ -- Christian Dondrup <cdondrup@lincoln.ac.uk>  Sat, 16 May 2015 23:00:00 -0000
+
+ros-melodic-scitos-cmd-vel-mux (0.0.16-1bionic) bionic; urgency=high
+
+
+
+ -- Christian Dondrup <cdondrup@lincoln.ac.uk>  Thu, 19 Mar 2015 00:00:00 -0000
+
+ros-melodic-scitos-cmd-vel-mux (0.0.15-1bionic) bionic; urgency=high
+
+
+
+ -- Christian Dondrup <cdondrup@lincoln.ac.uk>  Wed, 18 Mar 2015 00:00:00 -0000
+
+ros-melodic-scitos-cmd-vel-mux (0.0.14-1bionic) bionic; urgency=high
+
+
+
+ -- Christian Dondrup <cdondrup@lincoln.ac.uk>  Wed, 17 Dec 2014 00:00:00 -0000
+
+ros-melodic-scitos-cmd-vel-mux (0.0.13-1bionic) bionic; urgency=high
+
+
+
+ -- Christian Dondrup <cdondrup@lincoln.ac.uk>  Fri, 21 Nov 2014 00:00:00 -0000
+
+ros-melodic-scitos-cmd-vel-mux (0.0.12-1bionic) bionic; urgency=high
+
+
+
+ -- Christian Dondrup <cdondrup@lincoln.ac.uk>  Thu, 20 Nov 2014 00:00:00 -0000
+
+ros-melodic-scitos-cmd-vel-mux (0.0.11-1bionic) bionic; urgency=high
+
+
+
+ -- Christian Dondrup <cdondrup@lincoln.ac.uk>  Thu, 20 Nov 2014 00:00:00 -0000
+
+ros-melodic-scitos-cmd-vel-mux (0.0.10-1bionic) bionic; urgency=high
+
+
+
+ -- Christian Dondrup <cdondrup@lincoln.ac.uk>  Wed, 19 Nov 2014 00:00:00 -0000
+
+ros-melodic-scitos-cmd-vel-mux (0.0.9-1bionic) bionic; urgency=high
+
+
+
+ -- Christian Dondrup <cdondrup@lincoln.ac.uk>  Tue, 11 Nov 2014 00:00:00 -0000
+
+ros-melodic-scitos-cmd-vel-mux (0.0.8-1bionic) bionic; urgency=high
+
+
+
+ -- Christian Dondrup <cdondrup@lincoln.ac.uk>  Sun, 09 Nov 2014 00:00:00 -0000
+
+ros-melodic-scitos-cmd-vel-mux (0.0.7-1bionic) bionic; urgency=high
+
+  * final and tested version of loader
+  * machine tags for cmd_vel_mux and teleop
+  * Contributors: Jaime Pulido Fentanes
+
+ -- Christian Dondrup <cdondrup@lincoln.ac.uk>  Sat, 08 Nov 2014 00:00:00 -0000
+
+ros-melodic-scitos-cmd-vel-mux (0.0.6-1bionic) bionic; urgency=high
+
+
+
+ -- Christian Dondrup <cdondrup@lincoln.ac.uk>  Thu, 06 Nov 2014 00:00:00 -0000
+
+ros-melodic-scitos-cmd-vel-mux (0.0.5-1bionic) bionic; urgency=high
+
+
+
+ -- Christian Dondrup <cdondrup@lincoln.ac.uk>  Wed, 22 Oct 2014 23:00:00 -0000
+
+ros-melodic-scitos-cmd-vel-mux (0.0.4-1bionic) bionic; urgency=high
+
+
+
+ -- Christian Dondrup <cdondrup@lincoln.ac.uk>  Sun, 12 Oct 2014 23:00:00 -0000
+
+ros-melodic-scitos-cmd-vel-mux (0.0.3-1bionic) bionic; urgency=high
+
+
+
+ -- Christian Dondrup <cdondrup@lincoln.ac.uk>  Sun, 21 Sep 2014 23:00:00 -0000
+
+ros-melodic-scitos-cmd-vel-mux (0.0.2-1bionic) bionic; urgency=high
+
+
+
+ -- Christian Dondrup <cdondrup@lincoln.ac.uk>  Sun, 21 Sep 2014 23:00:00 -0000
+
+ros-melodic-scitos-cmd-vel-mux (0.0.1-1bionic) bionic; urgency=high
+
+  * [scitos_cmd_vel_mux] Set version number to 0.0.0 to have a common start.
+  * Added license to package.xml
+  * Release preparations
+  * adding machine tags to cmd_vel_mux, teleop_joystick and scitos docking launch files
+  * Renamed topics of comd_vel_mux to match the old ones
+    Also changed the name to yocs_cmd_vel_mux in package.xml to allow automated installation.
+  * Changed the name of the cmd_vel_mux in launch file to new version
+  * updated dependency: package got renamed under hydro
+  * Added README file with basic instructions.
+    Updated package.xml to make rosdep work.
+  * Added implementation of cmd_vel_mux to allow arbitration. To use run scitos_teleop_mux.launch and have the navigation publish to /cmd_vel_mux/input/navigation instead of /cmd_vel.
+    Joystick will now get priority over navigation if dead-man-switch is pressed.
+  * Contributors: Christian Dondrup, Jaime Pulido Fentanes, Lars Kunze, cdondrup
+
+ -- Christian Dondrup <cdondrup@lincoln.ac.uk>  Sun, 21 Sep 2014 23:00:00 -0000
+
+
