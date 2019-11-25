@@ -1,0 +1,12 @@
+Source: ros-melodic-scitos-docking
+Section: misc
+Priority: optional
+Maintainer: gestom <tkrajnik@lincoln.ac.uk>
+Build-Depends: debhelper (>= 9.0.0), libblas-dev, libboost-all-dev, libgsl-dev, libncurses5-dev, ros-melodic-actionlib, ros-melodic-actionlib-msgs, ros-melodic-catkin, ros-melodic-cv-bridge, ros-melodic-dynamic-reconfigure, ros-melodic-geometry-msgs, ros-melodic-image-transport, ros-melodic-message-generation, ros-melodic-mongodb-store, ros-melodic-move-base-msgs, ros-melodic-nav-msgs, ros-melodic-roscpp, ros-melodic-rospy, ros-melodic-scitos-msgs, ros-melodic-scitos-teleop, ros-melodic-sensor-msgs, ros-melodic-std-msgs, ros-melodic-tf
+Homepage: https://github.com/strands-project/scitos_apps
+Standards-Version: 3.9.2
+
+Package: ros-melodic-scitos-docking
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, libblas-dev, libboost-all-dev, libgsl-dev, libncurses5-dev, ros-melodic-actionlib, ros-melodic-actionlib-msgs, ros-melodic-cv-bridge, ros-melodic-dynamic-reconfigure, ros-melodic-geometry-msgs, ros-melodic-image-transport, ros-melodic-message-runtime, ros-melodic-mongodb-store, ros-melodic-move-base-msgs, ros-melodic-nav-msgs, ros-melodic-roscpp, ros-melodic-rospy, ros-melodic-scitos-msgs, ros-melodic-scitos-teleop, ros-melodic-sensor-msgs, ros-melodic-std-msgs, ros-melodic-tf
+Description: The charging package providing a visual charging action service for the scitos robot.
