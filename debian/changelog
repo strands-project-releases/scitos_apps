@@ -1,0 +1,162 @@
+ros-melodic-scitos-apps (0.2.0-1bionic) bionic; urgency=high
+
+
+
+ -- Christian Dondrup <cdondrup@lincoln.ac.uk>  Thu, 01 Nov 2018 00:00:00 -0000
+
+ros-melodic-scitos-apps (0.1.2-1bionic) bionic; urgency=high
+
+
+
+ -- Christian Dondrup <cdondrup@lincoln.ac.uk>  Tue, 27 Jun 2017 23:00:00 -0000
+
+ros-melodic-scitos-apps (0.1.1-1bionic) bionic; urgency=high
+
+
+
+ -- Christian Dondrup <cdondrup@lincoln.ac.uk>  Thu, 03 Nov 2016 00:00:00 -0000
+
+ros-melodic-scitos-apps (0.1.0-1bionic) bionic; urgency=high
+
+
+
+ -- Christian Dondrup <cdondrup@lincoln.ac.uk>  Mon, 23 May 2016 23:00:00 -0000
+
+ros-melodic-scitos-apps (0.0.23-1bionic) bionic; urgency=high
+
+
+
+ -- Christian Dondrup <cdondrup@lincoln.ac.uk>  Mon, 02 May 2016 23:00:00 -0000
+
+ros-melodic-scitos-apps (0.0.22-1bionic) bionic; urgency=high
+
+
+
+ -- Christian Dondrup <cdondrup@lincoln.ac.uk>  Thu, 10 Dec 2015 00:00:00 -0000
+
+ros-melodic-scitos-apps (0.0.21-1bionic) bionic; urgency=high
+
+
+
+ -- Christian Dondrup <cdondrup@lincoln.ac.uk>  Mon, 07 Dec 2015 00:00:00 -0000
+
+ros-melodic-scitos-apps (0.0.20-1bionic) bionic; urgency=high
+
+
+
+ -- Christian Dondrup <cdondrup@lincoln.ac.uk>  Thu, 21 May 2015 23:00:00 -0000
+
+ros-melodic-scitos-apps (0.0.19-1bionic) bionic; urgency=high
+
+
+
+ -- Christian Dondrup <cdondrup@lincoln.ac.uk>  Thu, 21 May 2015 23:00:00 -0000
+
+ros-melodic-scitos-apps (0.0.18-1bionic) bionic; urgency=high
+
+
+
+ -- Christian Dondrup <cdondrup@lincoln.ac.uk>  Sat, 16 May 2015 23:00:00 -0000
+
+ros-melodic-scitos-apps (0.0.16-1bionic) bionic; urgency=high
+
+
+
+ -- Christian Dondrup <cdondrup@lincoln.ac.uk>  Thu, 19 Mar 2015 00:00:00 -0000
+
+ros-melodic-scitos-apps (0.0.15-1bionic) bionic; urgency=high
+
+
+
+ -- Christian Dondrup <cdondrup@lincoln.ac.uk>  Wed, 18 Mar 2015 00:00:00 -0000
+
+ros-melodic-scitos-apps (0.0.14-1bionic) bionic; urgency=high
+
+
+
+ -- Christian Dondrup <cdondrup@lincoln.ac.uk>  Wed, 17 Dec 2014 00:00:00 -0000
+
+ros-melodic-scitos-apps (0.0.13-1bionic) bionic; urgency=high
+
+
+
+ -- Christian Dondrup <cdondrup@lincoln.ac.uk>  Fri, 21 Nov 2014 00:00:00 -0000
+
+ros-melodic-scitos-apps (0.0.12-1bionic) bionic; urgency=high
+
+
+
+ -- Christian Dondrup <cdondrup@lincoln.ac.uk>  Thu, 20 Nov 2014 00:00:00 -0000
+
+ros-melodic-scitos-apps (0.0.11-1bionic) bionic; urgency=high
+
+
+
+ -- Christian Dondrup <cdondrup@lincoln.ac.uk>  Thu, 20 Nov 2014 00:00:00 -0000
+
+ros-melodic-scitos-apps (0.0.10-1bionic) bionic; urgency=high
+
+
+
+ -- Christian Dondrup <cdondrup@lincoln.ac.uk>  Wed, 19 Nov 2014 00:00:00 -0000
+
+ros-melodic-scitos-apps (0.0.9-1bionic) bionic; urgency=high
+
+
+
+ -- Christian Dondrup <cdondrup@lincoln.ac.uk>  Tue, 11 Nov 2014 00:00:00 -0000
+
+ros-melodic-scitos-apps (0.0.8-1bionic) bionic; urgency=high
+
+
+
+ -- Christian Dondrup <cdondrup@lincoln.ac.uk>  Sun, 09 Nov 2014 00:00:00 -0000
+
+ros-melodic-scitos-apps (0.0.7-1bionic) bionic; urgency=high
+
+
+
+ -- Christian Dondrup <cdondrup@lincoln.ac.uk>  Sat, 08 Nov 2014 00:00:00 -0000
+
+ros-melodic-scitos-apps (0.0.6-1bionic) bionic; urgency=high
+
+  * Added license
+  * Created metapackage for easier install
+  * Contributors: Christian Dondrup
+  * Added license
+  * Created metapackage for easier install
+  * Contributors: Christian Dondrup
+
+ -- Christian Dondrup <cdondrup@lincoln.ac.uk>  Thu, 06 Nov 2014 00:00:00 -0000
+
+ros-melodic-scitos-apps (0.0.5-1bionic) bionic; urgency=high
+
+
+
+ -- Christian Dondrup <cdondrup@lincoln.ac.uk>  Wed, 22 Oct 2014 23:00:00 -0000
+
+ros-melodic-scitos-apps (0.0.4-1bionic) bionic; urgency=high
+
+
+
+ -- Christian Dondrup <cdondrup@lincoln.ac.uk>  Sun, 12 Oct 2014 23:00:00 -0000
+
+ros-melodic-scitos-apps (0.0.3-1bionic) bionic; urgency=high
+
+
+
+ -- Christian Dondrup <cdondrup@lincoln.ac.uk>  Mon, 22 Sep 2014 19:09:00 -0000
+
+ros-melodic-scitos-apps (0.0.2-1bionic) bionic; urgency=high
+
+
+
+ -- Christian Dondrup <cdondrup@lincoln.ac.uk>  Mon, 22 Sep 2014 17:41:00 -0000
+
+ros-melodic-scitos-apps (0.0.1-1bionic) bionic; urgency=high
+
+
+
+ -- Christian Dondrup <cdondrup@lincoln.ac.uk>  Mon, 22 Sep 2014 15:19:00 -0000
+
+
