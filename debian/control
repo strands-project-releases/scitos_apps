@@ -1,0 +1,12 @@
+Source: ros-melodic-scitos-teleop
+Section: misc
+Priority: optional
+Maintainer: Christian Dondrup <cdondrup@lincoln.ac.uk>
+Build-Depends: debhelper (>= 9.0.0), ros-melodic-catkin, ros-melodic-geometry-msgs, ros-melodic-message-generation, ros-melodic-roscpp, ros-melodic-rospy, ros-melodic-scitos-msgs, ros-melodic-sensor-msgs, ros-melodic-std-msgs
+Homepage: https://github.com/strands-project/scitos_apps
+Standards-Version: 3.9.2
+
+Package: ros-melodic-scitos-teleop
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-melodic-geometry-msgs, ros-melodic-joy, ros-melodic-message-runtime, ros-melodic-roscpp, ros-melodic-rospy, ros-melodic-scitos-msgs, ros-melodic-sensor-msgs, ros-melodic-std-msgs
+Description: The scitos teleoperation package
